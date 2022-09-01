@@ -1,16 +1,16 @@
 # flutter_fundamental_3
 
-A new Flutter project.
+# Nama : Addina Nurul Mawaddah
 
-## Getting Started
+## Praktikum 1 : Menerapkan Gestur Detector
+![Screenshot Hello World](images/P1.PNG)<br>
+### Menggunakan kode onTop
+![Screenshot Hello World](images/P1_onTop.PNG)<br>
+### Menggunakan kode onDoubleTap
+![Screenshot Hello World](images/P1_onDoubleTap.PNG)<br>
 
-This project is a starting point for a Flutter application.
+## Praktikum 2 : Menerapkan Input widget dan forms
+![Screenshot Hello World](images/P2.PNG)<br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 3 : Menerapkan Custom  Input dan FormField Widget
+![Screenshot Hello World](images/P3.PNG)<br>
